@@ -1,0 +1,3 @@
+O cliente Julio cancelou a cadeira 3 na fileira 1.
+O cliente Julio cancelou a cadeira 1 na fileira 1.
+O cliente Julio cancelou a cadeira 1 na fileira 1.
