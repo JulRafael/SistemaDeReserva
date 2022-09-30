@@ -1,6 +1,1 @@
-O cliente Julio reservou a cadeira 1 na fileira 1.
-O cliente Julio reservou a cadeira 2 na fileira 1.
-O cliente Julio reservou a cadeira 3 na fileira 1.
-O cliente Julio reservou a cadeira 5 na fileira 2.
-O cliente Julio reservou a cadeira 4 na fileira 4.
-O cliente Julio reservou a cadeira 6 na fileira 6.
+
